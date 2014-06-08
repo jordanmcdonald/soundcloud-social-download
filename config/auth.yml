@@ -11,13 +11,12 @@ development:
     base_url: https://twitter.com
   
   facebook:
-    app_id: devappid
-    secret: devsecret
+    app_id: 
     base_url: https://graph.facebook.com
     
   myspace:
     key: devkey
-    secret: devsecret
+    secret: devsecret 
     base_url: http://api.myspace.com    
     
   digg:
@@ -55,8 +54,8 @@ test:
 production:
   
   soundcloud:
-    key: prokey
-    secret: prosecret
+    key: 0d2528098d2a3267f858ada2e7618b2e
+    secret: f881c64c67ae353f76f08f8ba062ed41
     base_url: http://api.soundcloud.com
   
   twitter:
